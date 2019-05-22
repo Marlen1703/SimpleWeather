@@ -4,6 +4,6 @@
     <item
         android:id="@+id/toggle_values"
         android:title="@string/toggle_values"
-        app:showAsAction="always"/>
+        app:showAsAction="always" />
 
 </menu>

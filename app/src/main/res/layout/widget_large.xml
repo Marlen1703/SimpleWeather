@@ -25,7 +25,7 @@
             android:gravity="center"
             android:lines="1"
             android:textColor="@color/textColor"
-            android:textSize="18sp"
+            android:textSize="20sp"
             tools:text="Kayamkulam, IN" />
 
         <ImageButton
