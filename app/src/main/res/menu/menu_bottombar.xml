@@ -11,7 +11,7 @@
         android:title="@string/bottom_rain" />
     <item
         android:id="@+id/map_wind"
-        
+
         android:color="@color/md_green_700"
         android:title="@string/bottom_wind" />
     <item
